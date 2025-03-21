@@ -1,19 +1,39 @@
-# Sunum kaynakları
+# Developer MultiGroup Community Presentations
 
-## API Learning Roadmap - 
-https://blog.bytebytego.com/p/ep147-the-ultimate-api-learning-roadmap
+## Overview 🌟
+This repository contains resources and notes for two presentations: 
+1. [Google Gemini API Details - 🎥 YouTube](https://www.youtube.com/watch?v=A88XskCu-Vc)
+2. [LLM Parameters - 🎥 YouTube](https://www.youtube.com/watch?v=yRraDgrZees)
+   
+## 👉Presentation 1: Google Gemini API Details
 
-## Google: Models Intelligence, Performance & Price - 
-https://artificialanalysis.ai/providers/google
+### Sources
+- **Google Colab Example**
+  [GeminiAPI_Details_sunum.ipynb](https://github.com/tolgakurtuluss/gemini_api_sunum/blob/main/GeminiAPI_Details_sunum.ipynb)
+  
+- **API Learning Roadmap**  
+  [Ultimate API Learning Roadmap](https://blog.bytebytego.com/p/ep147-the-ultimate-api-learning-roadmap)
 
-## Gemini API Documentations - 
-https://ai.google.dev/gemini-api/docs/pricing
-https://ai.google.dev/gemini-api/docs/image-generation
-https://ai.google.dev/gemini-api/cookbook
+- **Google: Models Intelligence, Performance & Price**  
+  [Artificial Analysis - Google Models](https://artificialanalysis.ai/providers/google)
 
-## X üzerinden GoogleAIDevelopers örnekleri - 
-https://x.com/googleaidevs/status/1901664829166719465
+- **Gemini API Documentations**  
+  - [Pricing](https://ai.google.dev/gemini-api/docs/pricing)  
+  - [Image Generation](https://ai.google.dev/gemini-api/docs/image-generation)  
+  - [Cookbook](https://ai.google.dev/gemini-api/cookbook)
 
-## Önerilen ürünler - 
-https://anythingllm.com/
-https://cline.bot/
+- **Examples from GoogleAIDevelopers on X**  
+  [GoogleAIDevelopers Examples](https://x.com/googleaidevs/status/1901664829166719465)
+
+- **Recommended Products**  
+  - [AnythingLLM](https://anythingllm.com/)  
+  - [Cline Bot](https://cline.bot/)
+
+## 👉 Presentation 2: LLM Parameters
+
+### Sources
+*To be updated after the second presentation.*
+
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
